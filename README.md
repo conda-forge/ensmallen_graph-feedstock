@@ -48,10 +48,10 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_python3.8.____cpython</td>
+              <td>linux_64_python3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=21371&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ensmallen_graph-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ensmallen_graph-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_python3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -74,7 +74,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-ensmallen_graph-green.svg)](https://anaconda.org/conda-forge/ensmallen_graph) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ensmallen_graph.svg)](https://anaconda.org/conda-forge/ensmallen_graph) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ensmallen_graph.svg)](https://anaconda.org/conda-forge/ensmallen_graph) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ensmallen_graph.svg)](https://anaconda.org/conda-forge/ensmallen_graph) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-ensmallen__graph-green.svg)](https://anaconda.org/conda-forge/ensmallen_graph) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ensmallen_graph.svg)](https://anaconda.org/conda-forge/ensmallen_graph) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ensmallen_graph.svg)](https://anaconda.org/conda-forge/ensmallen_graph) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ensmallen_graph.svg)](https://anaconda.org/conda-forge/ensmallen_graph) |
 
 Installing ensmallen_graph
 ==========================
